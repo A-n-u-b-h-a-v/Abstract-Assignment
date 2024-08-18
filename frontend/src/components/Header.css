@@ -1,0 +1,33 @@
+
+  .logo{
+    border-radius: 10px;
+    margin-left: 90px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 5px;
+    
+  }
+  .section1{
+    display: flex;
+    align-items: center;
+  }
+  .requestButton{
+    display: flex;
+    background-color: #1a1a1a;
+    color: #ffffff;
+    border: 1px solid white;
+    outline: none;
+    font-size: 17px;
+    align-items: center;
+    margin-right: 200px;
+    margin-block: 15px;
+    padding-inline: 20px;
+    border-radius: 5px;
+
+  }
+  .navbar{
+    display: flex;
+    background-color: black;
+    margin: auto;
+    justify-content: space-between;
+  }

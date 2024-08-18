@@ -1,0 +1,6 @@
+.sectionsContainer{
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 50px;
+  padding: 150px 250px
+}
