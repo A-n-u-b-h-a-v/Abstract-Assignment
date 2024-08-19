@@ -11,7 +11,7 @@ function App() {
   const router = createBrowserRouter([
     {
       path: '/',
-      element: <Layout />,  // Layout includes Header, Footer, and Outlet for routed content
+      element: <Layout />,
       children: [
         { path: '/', element: <Home /> },
         { path: '/home', element: <Home /> },
